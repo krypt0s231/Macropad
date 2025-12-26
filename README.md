@@ -1,4 +1,4 @@
-#KRYPT's Hackpad – Custom 4×4 KMK Macropad with OLED & RGB
+# KRYPT's Hackpad – Custom 4×4 KMK Macropad with OLED & RGB
 
 A custom-designed 4×4 mechanical macropad built around the Seeed XIAO RP2040, featuring:
 
@@ -16,23 +16,18 @@ This project was designed as a DIY / competition-grade hackpad, from schematic �
 
 # Project Images
 
- Overall Hackpad
+  ## **Schematic**
+![PCB](IMAGES/SCHEMATIC.png)
 
 
 
-
- Schematic
-
-
-
-
- PCB Layout
+  ## **PCB Layout**
+![PCB](IMAGES/PCB.png)
 
 
 
-
- Case & Assembly
-
+  ## **Case & Assembly**
+![PCB](IMAGES/CASE.png)
 
 
 
@@ -119,6 +114,6 @@ This architecture is similar to Stream Decks and professional macro pads.
 
 Designed and built by kryptos
 
-📜 License
+License
 
 Open-sourse
