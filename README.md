@@ -28,6 +28,7 @@ This project was designed as a DIY / competition-grade hackpad, from schematic â
 
   ## **Case & Assembly**
 ![PCB](IMAGES/CASE.png)
+![PCB](IMAGES/SCHEMATIC.png)
 
 
 
